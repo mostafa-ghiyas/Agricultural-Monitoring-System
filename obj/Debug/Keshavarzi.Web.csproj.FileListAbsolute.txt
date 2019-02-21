@@ -1,0 +1,10 @@
+C:\Users\mgh\Desktop\Keshvarzi\Website\Keshavarzi\Keshavarzi.Web\bin\Keshavarzi.Web.dll
+C:\Users\mgh\Desktop\Keshvarzi\Website\Keshavarzi\Keshavarzi.Web\bin\Keshavarzi.Web.pdb
+C:\Users\mgh\Desktop\Keshvarzi\Website\Keshavarzi\Keshavarzi.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mgh\Desktop\Keshvarzi\Website\Keshavarzi\Keshavarzi.Web\obj\Debug\Keshavarzi.Web.dll
+C:\Users\mgh\Desktop\Keshvarzi\Website\Keshavarzi\Keshavarzi.Web\obj\Debug\Keshavarzi.Web.pdb
+C:\Users\mgh\Desktop\Keshvarzi\New folder\Website\Keshavarzi\Keshavarzi.Web\bin\Keshavarzi.Web.dll
+C:\Users\mgh\Desktop\Keshvarzi\New folder\Website\Keshavarzi\Keshavarzi.Web\bin\Keshavarzi.Web.pdb
+C:\Users\mgh\Desktop\Keshvarzi\New folder\Website\Keshavarzi\Keshavarzi.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mgh\Desktop\Keshvarzi\New folder\Website\Keshavarzi\Keshavarzi.Web\obj\Debug\Keshavarzi.Web.dll
+C:\Users\mgh\Desktop\Keshvarzi\New folder\Website\Keshavarzi\Keshavarzi.Web\obj\Debug\Keshavarzi.Web.pdb
